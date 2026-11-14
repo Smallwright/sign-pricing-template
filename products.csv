@@ -1,0 +1,6 @@
+product,material,face_material,waste_percent,printed_sides,setup_minutes_per_line,labour_minutes_per_sqft,hardware_usd_per_piece,markup_percent,minimum_usd_per_line
+"Vinyl banner, 13 oz, hemmed",13 oz banner vinyl,,30,1,15,1.0,0.0,120,45
+"Coroplast yard sign, 4 mm, printed direct",4 mm coroplast,,15,1,5,0.5,0.0,50,20
+"Coroplast yard sign, 4 mm, printed direct, with H-stake",4 mm coroplast,,15,1,5,0.5,1.5,50,20
+"ACM sign, 3 mm, printed vinyl face (unlaminated)",3 mm ACM (aluminum composite),Printable adhesive vinyl (calendered),15,1,10,2.0,0.0,100,60
+"Printed adhesive vinyl (window, wall, decal)",Printable adhesive vinyl (calendered),,20,1,15,1.5,0.0,150,35
