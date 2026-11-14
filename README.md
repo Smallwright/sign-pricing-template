@@ -75,14 +75,16 @@ The settings that produce these, from `products.csv`:
 
 "Printed direct" means a flatbed (UV) printer. If you print vinyl and mount it on coroplast, set the yard sign's face material to the adhesive vinyl, as the ACM sign does.
 
-## Where the example costs come from (checked November 2026)
+## Where the example costs come from (November 2026)
+
+Only the banner roll and ink figures were checked on the source page. The other three are typical ranges from search listings: check them with your supplier.
 
 | Material | Example | Per sq ft | Source |
 |---|---|---|---|
 | 13 oz banner vinyl | $216 per 54 in x 150 ft roll | $0.320 | [FastPlot 13 oz scrim banner](https://macroenter.com/FastPlot-EcoSolvent-Scrim-Vinyl-Banner-13oz-54x150-Roll) |
-| Printable adhesive vinyl, calendered | $340 per 54 in x 150 ft roll | $0.504 | Roland and GF calendered rolls at $325–$346 ([ColDesi](https://shop.coldesi.com/products/matte-cal-vinyl-perm-adhesive-54in-x-150ft-ro-esm-mcvp-150-54), [SPS-i](https://sps-i.com/products/gf-concept-201-matte-white-vinyl-54x150-clear-perm-adhesive-3-4-mil)) |
-| 4 mm coroplast | $33.15 per 4 x 8 ft sheet | $1.036 | [Home Depot](https://www.homedepot.com/p/202090128), white twinwall, 10-pack price. A sign supplier will usually be cheaper. |
-| 3 mm ACM | $78.88 per 4 x 8 ft sheet | $2.465 | [Curbell Plastics](https://www.curbellplastics.com/product/w01-06883/), matte white |
+| Printable adhesive vinyl, calendered | $340 per 54 in x 150 ft roll | $0.504 | **Typical range, check your supplier:** about $325–$346 per 54 in x 150 ft roll in Nov 2026 search listings for Roland and GF calendered vinyl (we couldn't open the product pages to confirm). |
+| 4 mm coroplast | $33.15 per 4 x 8 ft sheet | $1.036 | **Typical range, check your supplier:** about $33–35 a sheet retail in 10-packs in Nov 2026 search listings (Home Depot); sign suppliers are usually cheaper (we couldn't open the product page to confirm). |
+| 3 mm ACM | $78.88 per 4 x 8 ft sheet | $2.465 | **Typical range, check your supplier:** about $79 a sheet for matte white in a Nov 2026 search listing (Curbell Plastics); finish and quantity change it (we couldn't open the product page to confirm). |
 | Ink | $0.25 per printed sq ft | $0.25 | Roland DGA puts it at $0.12 to over $0.32 per sq ft ([Roland DGA](https://www.rolanddga.com/blog/what-is-the-best-printer-for-your-sign-shop)). Owners in a 2010 Signs101 thread worked out about $0.24–$0.50 ([thread](https://www.signs101.com/threads/anyone-know-roughly-what-ink-costs-per-sq-ft.71085)). Ink cost varies by printer and coverage, so use your own figure. |
 
 The $75/hour shop rate, the $0.10 grommet and $1.50 H-stake prices, the waste percentages, the minutes and the markups are illustrative settings, not survey results. Laminate, design time, installation and delivery aren't included. Add laminate as a material (and as the face material where you use it), and add the others as extras.
