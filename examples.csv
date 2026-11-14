@@ -1,0 +1,11 @@
+job,product,width_in,height_in,quantity,extras_usd_per_piece,total_sqft,material_usd,ink_usd,labour_usd,hardware_extras_usd,cost_usd,price_usd,price_each_usd,price_per_sqft_usd
+"2 x 4 ft banner, 4 grommets","Vinyl banner, 13 oz, hemmed",24,48,1,0.4,8.0,3.33,2.0,28.75,0.4,34.48,75.85,75.85,9.48
+"3 x 6 ft banner, 8 grommets","Vinyl banner, 13 oz, hemmed",36,72,1,0.8,18.0,7.49,4.5,41.25,0.8,54.04,118.88,118.88,6.6
+"3 x 10 ft banner, 12 grommets","Vinyl banner, 13 oz, hemmed",36,120,1,1.2,30.0,12.48,7.5,56.25,1.2,77.43,170.35,170.35,5.68
+"18 x 24 in yard sign with stake, 1","Coroplast yard sign, 4 mm, printed direct, with H-stake",18,24,1,0,3.0,3.57,0.75,8.13,1.5,13.95,20.92,20.92,6.97
+"18 x 24 in yard signs with stakes, 10","Coroplast yard sign, 4 mm, printed direct, with H-stake",18,24,10,0,30.0,35.74,7.5,25.0,15.0,83.24,124.86,12.49,4.16
+"24 x 36 in yard signs, 25","Coroplast yard sign, 4 mm, printed direct",24,36,25,0,150.0,178.7,37.5,100.0,0.0,316.2,474.3,18.97,3.16
+"24 x 36 in ACM sign, 1","ACM sign, 3 mm, printed vinyl face (unlaminated)",24,36,1,0,6.0,20.48,1.5,27.5,0.0,49.48,98.97,98.97,16.5
+"4 x 8 ft ACM sign, 1","ACM sign, 3 mm, printed vinyl face (unlaminated)",48,96,1,0,32.0,109.25,8.0,92.5,0.0,209.75,419.5,419.5,13.11
+"3 x 5 ft window graphic, 1","Printed adhesive vinyl (window, wall, decal)",36,60,1,0,15.0,9.07,3.75,46.88,0.0,59.69,149.23,149.23,9.95
+"12 x 12 in decals, 20","Printed adhesive vinyl (window, wall, decal)",12,12,20,0,20.0,12.09,5.0,56.25,0.0,73.34,183.35,9.17,9.17
