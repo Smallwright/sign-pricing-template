@@ -13,9 +13,9 @@ SHOP_RATE = 75.0  # $ per hour of shop labour: replace with your own
 # name, how you buy it, price paid ($), square feet in that purchase, where the example price came from
 MATERIALS = [
     ('13 oz banner vinyl', '54 in x 150 ft roll', 216.00, 675, 'FastPlot 13 oz scrim banner, 54 in x 150 ft roll: $216 (Nov 2026)'),
-    ('Printable adhesive vinyl (calendered)', '54 in x 150 ft roll', 340.00, 675, 'Supplier listings, Nov 2026: $325-$346 per 54 in x 150 ft roll'),
-    ('4 mm coroplast', '4 x 8 ft sheet', 33.15, 32, 'Home Depot 10-pack, Nov 2026: $33.15 a sheet (trade suppliers are usually cheaper)'),
-    ('3 mm ACM (aluminum composite)', '4 x 8 ft sheet', 78.88, 32, 'Curbell Plastics, Nov 2026: $78.88 a sheet, matte white'),
+    ('Printable adhesive vinyl (calendered)', '54 in x 150 ft roll', 340.00, 675, 'Typical range, check your supplier: about $325-$346 per roll in Nov 2026 search listings (Roland, GF); not confirmed on the product pages'),
+    ('4 mm coroplast', '4 x 8 ft sheet', 33.15, 32, 'Typical range, check your supplier: about $33-35 a sheet retail in 10-packs in Nov 2026 search listings (Home Depot); trade is usually cheaper; not confirmed on the product page'),
+    ('3 mm ACM (aluminum composite)', '4 x 8 ft sheet', 78.88, 32, 'Typical range, check your supplier: about $79 a sheet, matte white, in a Nov 2026 search listing (Curbell Plastics); not confirmed on the product page'),
     ('Ink', 'per printed sq ft', 0.25, 1, 'Roland DGA: $0.12 to over $0.32 per sq ft; a 2010 Signs101 thread: about $0.24-$0.50. Use your own figure'),
 ]
 INK = 'Ink'
